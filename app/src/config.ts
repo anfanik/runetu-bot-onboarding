@@ -53,6 +53,7 @@ export default defineConfig({
           ],
 
           button: {
+            disabled: false,
             href: 'ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTprVHFYa1ZNOXJkbUhva1AxTkJQa3ds@174.138.49.215:28857/#%F0%9F%87%BA%F0%9F%87%B8%20New%20York%20%7C%20@runetu',
             content: 'Установить'
           },
